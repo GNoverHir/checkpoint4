@@ -1,0 +1,10 @@
+.CaixaConteudo {
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    background-image: url(https://th.bing.com/th/id/R.00b3ccca1c5f440ef34362f5577b2a2b?rik=0qHmPEnOiLXD7w&pid=ImgRaw&r=0);
+    padding: 0px;
+    margin: 0px;
+}
